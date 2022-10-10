@@ -1,0 +1,6 @@
+.review {
+  border: 1px solid gray;
+  width: 400px;
+  box-shadow: 3px 3px 2px lightblue, -3px -3px 2px lightblue;
+  border-radius: 5px;
+}
